@@ -1,6 +1,6 @@
-# 📱 FallTrack — Análise de Trajetória de Queda
+#  FallTrack — Análise de Trajetória de Queda
 
-> **🚧 Em construção** — Este repositório está em desenvolvimento ativo. O código será adicionado progressivamente conforme o projeto avança.
+> ** Em construção** — Este repositório está em desenvolvimento ativo. O código será adicionado progressivamente conforme o projeto avança.
 
 ---
 
