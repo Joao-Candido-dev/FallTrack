@@ -70,13 +70,13 @@ falltrack/
 | Etapa | Status |
 |---|---|
 | Definição da arquitetura | ✅ Concluído |
-| Estrutura do repositório | 🔄 Em andamento |
-| Backend — processamento de vídeo | ⏳ Pendente |
-| App mobile — telas principais | ⏳ Pendente |
-| Integração app ↔ servidor | ⏳ Pendente |
-| Telas de resultado e gráficos | ⏳ Pendente |
-| Exportação de relatório PDF | ⏳ Pendente |
-| Testes e ajustes finais | ⏳ Pendente |
+| Estrutura do repositório |  ✅ Concluído |
+| Backend — processamento de vídeo |  Pendente |
+| App mobile — telas principais |  Pendente |
+| Integração app ↔ servidor |  Pendente |
+| Telas de resultado e gráficos |  Pendente |
+| Exportação de relatório PDF |  Pendente |
+| Testes e ajustes finais |  Pendente |
 
 ---
 
